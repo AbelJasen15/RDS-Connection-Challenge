@@ -5,3 +5,5 @@
 5. pastikan port database 3306
 6. coba remote dengan perintah "mysql -h database-1.cxwy2y2my8cl.us-east-1.rds.amazonaws.com -P 3306 -u admin -p"
 7. lalu masukan password yang telah kita setup di awal
+--------------------------------------------------------------
+<center><img src="https://raw.githubusercontent.com/AbelJasen15/RDS-Connection-Challenge/main/ss.ss.png" /></center>
